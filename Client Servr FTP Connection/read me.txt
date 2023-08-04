@@ -1,2 +1,2 @@
-1. Create a fpt server. I used FileZilla for this.
+1. Create a fpt server. I used FileZilla for a local ftp server.
 2. Get ftp server ip, port, username and password and enter them in program.
