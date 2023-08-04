@@ -1,0 +1,5 @@
+Cluster iris dataset with four distance calculation methods:
+1. Euclidean
+2. Manhattan
+3. Chebyshev
+4. Minkowski
