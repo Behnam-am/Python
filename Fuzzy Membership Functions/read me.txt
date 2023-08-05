@@ -1,0 +1,7 @@
+Draw fussy membership functions and save them as pdf file
+membership functions are:
+1. Gaussian Membership Function
+2. Gbell Membership Function
+3. Sigmoid Membership Function
+4. Trapezoidal Membership Function
+5. Triangular Membership Function

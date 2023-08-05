@@ -1,0 +1,4 @@
+You should enter informations in edges.txt file.
+first column is the name of starting edge,
+second column is the name of ending edge,
+and third column is the distance between these two edges.
