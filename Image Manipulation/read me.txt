@@ -1,0 +1,7 @@
+This code manipulates image with following functions:
+Gray-Scale an image
+Laplace of an image
+Add gaussian noise
+Add salt and pepper noise 
+Median filter
+Average filter
